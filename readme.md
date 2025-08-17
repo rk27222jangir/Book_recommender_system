@@ -1,4 +1,4 @@
-# 🎬 Movie Recommendation System  
+# 🎬 Book Recommendation System  
 Hello, I'm Rohit Jangir. In this project, I have created two book recommendation systems based on the **Collaborative filtering** and **Popularity filtering** based techniques.  
 
 
